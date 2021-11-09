@@ -53,9 +53,8 @@
   "scripts": {
     "preinstall": "node installArchSpecificPackage"
   },
-  "version": "17.0.1"
-}
-{
+  "version": "17.0.1",
+  
   "main":"index.js",
   "dependencies": {
     "express": "^4.17.1",
@@ -64,4 +63,5 @@
   "scripts":{
     "start":" node index.js"
   }
+
 }
